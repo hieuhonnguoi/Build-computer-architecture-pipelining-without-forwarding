@@ -1,0 +1,8 @@
+module hazard_unit(
+   //input 
+	input logic [4:0]rs1d_i,
+	input logic [4:0]rs2d_i,
+	
+   input logic [4:0]rs1e_i,
+	input logic [4:0]rs2e_i,
+   input logic 	
